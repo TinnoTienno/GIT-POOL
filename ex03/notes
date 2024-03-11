@@ -1,0 +1,6 @@
+git add -p 
+
+s
+y pour enlever
+n pour laisser
+git restor --staged 
